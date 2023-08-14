@@ -23,3 +23,6 @@ Mi nombre es Alex, disfruten su estadia en mi repositorio...👨‍💻
 |---------||---------|
 |Alexander||Moreno   |
 |Stephen  ||Rodriguez|
+
+
+![imagen](hiragana-y-katakana.gif){width='100px'}
