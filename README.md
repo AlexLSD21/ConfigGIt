@@ -19,10 +19,11 @@ Mi nombre es Alex, disfruten su estadia en mi repositorio...👨‍💻
 - JAVASCRIPT 🎖️
 - GIT 🎖️
 
+```
 | Nombres ||Apellidos|
 |---------||---------|
 |Alexander||Moreno   |
 |Stephen  ||Rodriguez|
-
+```
 
 ![imagen](hiragana-y-katakana.gif){width='100px'}
